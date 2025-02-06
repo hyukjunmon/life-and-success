@@ -1,5 +1,7 @@
 import requests
 import json
+from datetime import datetime
+
 
 def fetch_advice():
     url = "https://korean-advice-open-api.vercel.app/api/advice"
@@ -14,11 +16,14 @@ def fetch_advice():
 def update_readme(advice_data):
     if not advice_data:
         return
-    
+    now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     readme_content = f"""# 내가 보려 만든 명언 리스트
 
 ##  {advice_data['author']}({advice_data['authorProfile']})
 > {advice_data['message']}
+
+
+⏳ 업데이트 시간: {now} (UTC)
 
 출처 : https://github.com/gwongibeom/korean-advice-open-api/blob/main/README.md
 재밌게 보려고 만들었습니다.
