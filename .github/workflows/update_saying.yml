@@ -20,7 +20,7 @@ jobs:
       - name: Korean Advice API로 명언 업데이트
         run: |
           pip install requests
-          python update_advice.py
+          python random_saying.py
 
       - name: 변경 사항 커밋 및 푸시
         run: |

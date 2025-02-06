@@ -20,9 +20,6 @@ def update_readme(advice_data):
 ##  {advice_data['author']}({advice_data['authorProfile']})
 > {advice_data['message']}
 
-
-
-
 출처 : https://github.com/gwongibeom/korean-advice-open-api/blob/main/README.md
 재밌게 보려고 만들었습니다.
 """
