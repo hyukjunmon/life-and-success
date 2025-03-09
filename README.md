@@ -4,7 +4,7 @@
 > 나는 특별한 재능이 있는 것이 아니다. 단지 열정적으로 호기심을 가질 뿐이다.
 
 
-⏳ 업데이트 시간: 2025-03-09 10:58:58 (UTC)
+⏳ 업데이트 시간: 2025-03-09 11:16:41 (UTC)
 
 출처 : https://github.com/gwongibeom/korean-advice-open-api/blob/main/README.md
 재밌게 보려고 만들었습니다.
