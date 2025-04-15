@@ -1,10 +1,10 @@
 # 내가 보려 만든 명언 리스트
 
-##  장 폴 사르트르(작가, 철학자)
-> 인생은 B(brith)와 D(death)사이의 C(choice)다.
+##  에이브러햄 링컨(미국 16대 대통령)
+> 자유는 진리를 말할 수 있는 권리다.
 
 
-⏳ 업데이트 시간: 2025-04-15 04:58:09 (UTC)
+⏳ 업데이트 시간: 2025-04-15 05:25:51 (UTC)
 
 출처 : https://github.com/gwongibeom/korean-advice-open-api/blob/main/README.md
 재밌게 보려고 만들었습니다.
