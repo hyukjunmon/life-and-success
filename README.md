@@ -4,7 +4,7 @@
 > 사랑은 집에서부터 시작됩니다. 먼저 당신의 가족을 사랑하세요.
 
 
-⏳ 업데이트 시간: 2025-04-20 22:56:08 (UTC)
+⏳ 업데이트 시간: 2025-04-20 23:19:36 (UTC)
 
 출처 : https://github.com/gwongibeom/korean-advice-open-api/blob/main/README.md
 재밌게 보려고 만들었습니다.
