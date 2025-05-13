@@ -4,7 +4,7 @@
 > 그 사람이 읽은 책과 사귄 친구를 보면 그 사람을 알 수 있다.
 
 
-⏳ 업데이트 시간: 2025-05-13 17:56:32 (UTC)
+⏳ 업데이트 시간: 2025-05-13 18:32:17 (UTC)
 
 출처 : https://github.com/gwongibeom/korean-advice-open-api/blob/main/README.md
 재밌게 보려고 만들었습니다.
