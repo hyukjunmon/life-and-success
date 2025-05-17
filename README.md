@@ -1,10 +1,10 @@
 # 내가 보려 만든 명언 리스트
 
-##  장 폴 사르트르(작가, 철학자)
-> 인생은 B(brith)와 D(death)사이의 C(choice)다.
+##  나폴레옹(군인, 프랑스의 황제)
+> 살아 있는 졸병이 죽은 황제보다 훨씬 가치가 있다.
 
 
-⏳ 업데이트 시간: 2025-05-17 01:38:40 (UTC)
+⏳ 업데이트 시간: 2025-05-17 02:59:36 (UTC)
 
 출처 : https://github.com/gwongibeom/korean-advice-open-api/blob/main/README.md
 재밌게 보려고 만들었습니다.
