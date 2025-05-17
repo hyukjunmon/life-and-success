@@ -1,10 +1,10 @@
 # 내가 보려 만든 명언 리스트
 
-##  랄프 왈도 에머슨(사상가, 시인)
-> 나 자신에 대한 자신감을 잃으면 온 세상이 나의 적이 된다.
+##  장 폴 사르트르(작가, 철학자)
+> 인생은 B(brith)와 D(death)사이의 C(choice)다.
 
 
-⏳ 업데이트 시간: 2025-05-17 16:59:52 (UTC)
+⏳ 업데이트 시간: 2025-05-17 17:22:40 (UTC)
 
 출처 : https://github.com/gwongibeom/korean-advice-open-api/blob/main/README.md
 재밌게 보려고 만들었습니다.
