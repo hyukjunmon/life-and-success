@@ -4,7 +4,7 @@
 > 우리가 두려워할 유일한 것은 두려움 그 자체다.
 
 
-⏳ 업데이트 시간: 2025-05-18 09:42:52 (UTC)
+⏳ 업데이트 시간: 2025-05-18 09:53:58 (UTC)
 
 출처 : https://github.com/gwongibeom/korean-advice-open-api/blob/main/README.md
 재밌게 보려고 만들었습니다.
