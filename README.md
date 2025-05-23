@@ -4,7 +4,7 @@
 > 당신이 할 수 있다고 생각하든 할 수 없다고 생각하든, 당신이 옳다.
 
 
-⏳ 업데이트 시간: 2025-05-23 20:55:03 (UTC)
+⏳ 업데이트 시간: 2025-05-23 21:16:46 (UTC)
 
 출처 : https://github.com/gwongibeom/korean-advice-open-api/blob/main/README.md
 재밌게 보려고 만들었습니다.
