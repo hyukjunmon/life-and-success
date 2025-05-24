@@ -4,7 +4,7 @@
 > 너 자신을 알라.
 
 
-⏳ 업데이트 시간: 2025-05-24 05:13:23 (UTC)
+⏳ 업데이트 시간: 2025-05-24 05:33:50 (UTC)
 
 출처 : https://github.com/gwongibeom/korean-advice-open-api/blob/main/README.md
 재밌게 보려고 만들었습니다.
