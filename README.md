@@ -4,7 +4,7 @@
 > 20년 후, 당신은 하지 않은 일들 때문에 더 실망할 것이다. 그러니 안락의자를 벗어나라.
 
 
-⏳ 업데이트 시간: 2025-06-17 11:55:48 (UTC)
+⏳ 업데이트 시간: 2025-06-17 12:48:35 (UTC)
 
 출처 : https://github.com/gwongibeom/korean-advice-open-api/blob/main/README.md
 재밌게 보려고 만들었습니다.
