@@ -1,10 +1,10 @@
 # 내가 보려 만든 명언 리스트
 
-##  소포클레스(극작가)
-> 당신이 헛되이 보낸 오늘은 어제 죽은 이가 그토록 갈망하던 내일이다.
+##  장 폴 사르트르(작가, 철학자)
+> 인생은 B(brith)와 D(death)사이의 C(choice)다.
 
 
-⏳ 업데이트 시간: 2025-06-20 20:49:02 (UTC)
+⏳ 업데이트 시간: 2025-06-20 20:59:59 (UTC)
 
 출처 : https://github.com/gwongibeom/korean-advice-open-api/blob/main/README.md
 재밌게 보려고 만들었습니다.
