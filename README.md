@@ -4,7 +4,7 @@
 > 세상이 널 버렸다고 생각하지마라. 세상은 널 가진 적이 없다.
 
 
-⏳ 업데이트 시간: 2025-06-21 13:35:07 (UTC)
+⏳ 업데이트 시간: 2025-06-21 13:47:41 (UTC)
 
 출처 : https://github.com/gwongibeom/korean-advice-open-api/blob/main/README.md
 재밌게 보려고 만들었습니다.
