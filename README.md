@@ -1,10 +1,10 @@
 # 내가 보려 만든 명언 리스트
 
-##  레스 브라운(동기부여 연설가)
-> 당신에 대한 누군가의 의견이 당신의 현실이 될 필요가 없다.
+##  장 폴 사르트르(작가, 철학자)
+> 인생은 B(brith)와 D(death)사이의 C(choice)다.
 
 
-⏳ 업데이트 시간: 2025-07-03 17:39:11 (UTC)
+⏳ 업데이트 시간: 2025-07-03 17:50:49 (UTC)
 
 출처 : https://github.com/gwongibeom/korean-advice-open-api/blob/main/README.md
 재밌게 보려고 만들었습니다.
