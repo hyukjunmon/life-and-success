@@ -1,10 +1,10 @@
 # 내가 보려 만든 명언 리스트
 
-##  루이 파스퇴르(프랑스 생물학자, 화학자)
-> 우연은 준비된 마음에게만 미소 짓는다.
+##  장 폴 사르트르(작가, 철학자)
+> 인생은 B(brith)와 D(death)사이의 C(choice)다.
 
 
-⏳ 업데이트 시간: 2025-07-14 15:46:21 (UTC)
+⏳ 업데이트 시간: 2025-07-14 15:58:02 (UTC)
 
 출처 : https://github.com/gwongibeom/korean-advice-open-api/blob/main/README.md
 재밌게 보려고 만들었습니다.
