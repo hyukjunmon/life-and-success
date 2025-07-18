@@ -4,7 +4,7 @@
 > 모든 아이는 예술가다. 문제는 성인이 된 후에도 어떻게 예술가로 남을 수 있는가이다.
 
 
-⏳ 업데이트 시간: 2025-07-18 19:44:30 (UTC)
+⏳ 업데이트 시간: 2025-07-18 19:55:47 (UTC)
 
 출처 : https://github.com/gwongibeom/korean-advice-open-api/blob/main/README.md
 재밌게 보려고 만들었습니다.
