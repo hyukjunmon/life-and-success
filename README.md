@@ -4,7 +4,7 @@
 > 우리는 자신을 스스로 정의하는 사람들이다.
 
 
-⏳ 업데이트 시간: 2025-07-19 19:27:48 (UTC)
+⏳ 업데이트 시간: 2025-07-19 19:41:07 (UTC)
 
 출처 : https://github.com/gwongibeom/korean-advice-open-api/blob/main/README.md
 재밌게 보려고 만들었습니다.
