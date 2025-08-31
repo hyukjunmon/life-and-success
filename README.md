@@ -1,10 +1,10 @@
 # 내가 보려 만든 명언 리스트
 
-##  장 폴 사르트르(작가, 철학자)
-> 인생은 B(brith)와 D(death)사이의 C(choice)다.
+##  베토벤(독일 작곡가, 피아니스트)
+> 음악은 인간의 내면으로부터 나오는 폭발이다.
 
 
-⏳ 업데이트 시간: 2025-08-31 07:22:07 (UTC)
+⏳ 업데이트 시간: 2025-08-31 07:33:38 (UTC)
 
 출처 : https://github.com/gwongibeom/korean-advice-open-api/blob/main/README.md
 재밌게 보려고 만들었습니다.
