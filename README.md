@@ -4,7 +4,7 @@
 > 우리는 변화를 믿어야 한다.
 
 
-⏳ 업데이트 시간: 2025-12-08 10:46:45 (UTC)
+⏳ 업데이트 시간: 2025-12-08 10:58:10 (UTC)
 
 출처 : https://github.com/gwongibeom/korean-advice-open-api/blob/main/README.md
 재밌게 보려고 만들었습니다.
