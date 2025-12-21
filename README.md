@@ -4,7 +4,7 @@
 > 자유는 진리를 말할 수 있는 권리다.
 
 
-⏳ 업데이트 시간: 2025-12-20 23:53:32 (UTC)
+⏳ 업데이트 시간: 2025-12-21 01:39:04 (UTC)
 
 출처 : https://github.com/gwongibeom/korean-advice-open-api/blob/main/README.md
 재밌게 보려고 만들었습니다.
