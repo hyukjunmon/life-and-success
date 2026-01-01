@@ -1,10 +1,10 @@
 # 내가 보려 만든 명언 리스트
 
-##  장 폴 사르트르(작가, 철학자)
-> 인생은 B(brith)와 D(death)사이의 C(choice)다.
+##  버락 오바마(미국 44대 대통령)
+> 우리는 변화를 믿어야 한다.
 
 
-⏳ 업데이트 시간: 2026-01-01 22:20:15 (UTC)
+⏳ 업데이트 시간: 2026-01-01 22:41:03 (UTC)
 
 출처 : https://github.com/gwongibeom/korean-advice-open-api/blob/main/README.md
 재밌게 보려고 만들었습니다.
