@@ -1,10 +1,10 @@
 # 내가 보려 만든 명언 리스트
 
-##  장 폴 사르트르(작가, 철학자)
-> 인생은 B(brith)와 D(death)사이의 C(choice)다.
+##  토마스 에디슨(미국 발명가, 사업가)
+> 천재는 1%의 영감과 99%의 땀이다.
 
 
-⏳ 업데이트 시간: 2026-01-02 10:40:55 (UTC)
+⏳ 업데이트 시간: 2026-01-02 10:53:56 (UTC)
 
 출처 : https://github.com/gwongibeom/korean-advice-open-api/blob/main/README.md
 재밌게 보려고 만들었습니다.
